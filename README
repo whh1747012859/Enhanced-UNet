@@ -1,0 +1,23 @@
+# Enhanced-UNet
+
+This repository contains the implementation of Enhanced-UNet for label-free cell viability assessment from bright-field microscopy images.
+
+## Overview
+Enhanced-UNet is a dual-branch multi-scale feature fusion network designed for high-resolution cell segmentation and viability assessment.
+
+## Contents
+- training/: model training scripts  
+- inference/: inference and evaluation scripts  
+- configs/: configuration files  
+- utils/: utility functions  
+
+## Requirements
+Python 3.8+  
+PyTorch >= 2.0  
+CUDA 11+
+
+## Usage
+Detailed instructions for training and inference will be provided after acceptance.
+
+## Notes
+This is an anonymized repository for peer review.
